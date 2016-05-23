@@ -9,7 +9,7 @@ PS4 InputManager is for Unity3D developers to get a head start on developing wit
 
 1. Clone/Download and extract the files somewhere in your machine.
 2. Navigate to the root of your project.
-3. Drag and drop *InputManager.asset* to *ProjectSettings* folder.
+3. Drag and drop **InputManager.asset** to *ProjectSettings* folder.
 4. Drag and drop *PS4_Input.js* into your *Assets* folder.
 5. Open your project in Unity3D
 6. Drag *PS4_Input.js* to a existing gameObject in your scene.
